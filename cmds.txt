@@ -1,0 +1,51 @@
+                                                                           Utils Commands
+                                                                            
+
+avatar - returns the pinged user's avatar
+    Usage: avatar [user]
+ping - returns the ping of the Discord's API
+    Usage: ping
+    Aliases: latency
+serverinfo - returns the information of the guild you're in
+    Usage: serverinfo
+    Aliases: si, guildinfo, ginfo, gi
+    
+                                                                            Neko Commands
+                                                                            
+cuddle - cuddles the pinged user
+  
+    Usage: serverinfo
+    Aliases: si, guildinfo, ginfo, gi
+    
+hug - hugs the pinged user
+          
+    Usage: serverinfo
+    Aliases: si, guildinfo, ginfo, gi
+        
+kiss - kisses the pinged user
+          
+    Usage: serverinfo
+    Aliases: si, guildinfo, ginfo, gi
+        
+meow - returns a random image of a cat using Nekos.life API.
+          
+    Usage: serverinfo
+    Aliases: si, guildinfo, ginfo, gi
+        
+pat - pats the pinged user
+        
+    Usage: serverinfo
+    Aliases: si, guildinfo, ginfo, gi
+        
+                                                                                    Fun Commands
+                                                                            
+teehee - we get a lil silly :P
+        
+    Usage: n/a
+    Aliases: n/a
+                                                 
+yes - yuhhhh
+        
+    Usage: n/a
+    Aliases: n/a
+        
